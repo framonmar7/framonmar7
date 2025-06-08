@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Francisco Jesús Montero Martínez
 
-<!--
-**framonmar7/framonmar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · AI & Data Developer**  
+I design clean, modular, and production-ready software systems, with a strong focus on deep learning and language technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+
+### 🧪 Programming Languages & Frameworks
+- **Python**: Django, data processing
+- **Java**: Spring
+- **JavaScript**: React for frontend development
+- **Git**: Version control
+
+### 🤖 Artificial Intelligence & Data
+- **Computer Vision**: Face detection using CNNs
+- **Natural Language Processing (NLP)**: BERT applied to text classification
+- **Supervised Learning**: Binary classifiers with configurable architectures
+- **Conversational AI**: Domain-specific chatbots built on adapted models
+- **Model Integration**: Deployment in Django-based applications
+
+### 🧰 Complementary Skills
+- **Mathematics**
+- **Digital and analog electronics**
+- **Digital signal processing**
+- **Linux systems administration**
+- **Networking and basic cybersecurity**
+- **Video editing**
+- **BPMN** (Business Process Modeling Notation)
+
+---
+
+## 🌐 Languages
+
+- **Spanish**: Native speaker
+- **English**: B2 level — currently improving spoken fluency
+
+---
+
+## 📫 Contact
+
+- GitHub: [framonmar7](https://github.com/framonmar7)  
+- Email: framonmar7@gmail.com  
+- LinkedIn: [linkedin.com/in/francisco-jesús-montero-martínez-5997a0195/](https://linkedin.com/in/francisco-jesús-montero-martínez-5997a0195/)
+
+---
