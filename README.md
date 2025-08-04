@@ -40,8 +40,8 @@ I design clean, modular, and production-ready software systems, with a strong fo
 
 ## 📫 Contact
 
-- GitHub: [framonmar7](https://github.com/framonmar7)  
-- Email: framonmar7@gmail.com  
-- LinkedIn: [linkedin.com/in/francisco-jesús-montero-martínez-5997a0195/](https://linkedin.com/in/francisco-jesús-montero-martínez-5997a0195/)
+- GitHub: [framonmar7](https://github.com/framonmar7)
+- Email: framonmar7@gmail.com
+- LinkedIn: [linkedin.com/in/framonmar7/](https://www.linkedin.com/in/framonmar7/)
 
 ---
