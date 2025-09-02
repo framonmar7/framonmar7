@@ -8,25 +8,26 @@ I design clean, modular, and production-ready software systems, with a strong fo
 ## 🧠 Technical Skills
 
 ### 🧪 Programming Languages & Frameworks
-- **Python**: Django, data processing
-- **Java**: Spring
+- **Python**: Django, FastAPI, data processing
 - **JavaScript**: React for frontend development
-- **Git**: Version control
+- **Databases**: SQL, Django ORM
 
 ### 🤖 Artificial Intelligence & Data
-- **Computer Vision**: Face detection using CNNs
-- **Natural Language Processing (NLP)**: BERT applied to text classification
-- **Supervised Learning**: Binary classifiers with configurable architectures
-- **Conversational AI**: Domain-specific chatbots built on adapted models
-- **Model Integration**: Deployment in Django-based applications
+- **Computer Vision**: CNN-based classifiers, face detection
+- **Natural Language Processing (NLP)**: BERT, text classifiers
+- **LLM Orchestration**: LangChain & LangGraph for structured workflows
+- **Model Serving**: Deployment via Django REST Framework and FastAPI
 
-### 🧰 Complementary Skills
-- **Mathematics**
-- **Digital and analog electronics**
-- **Digital signal processing**
+### 🛠️ Development & Infrastructure
+- **Version Control**: Git & collaborative workflows
+- **Testing**: Pytest, Selenium, Unittest
 - **Linux systems administration**
-- **Networking and basic cybersecurity**
-- **Video editing**
+- **Networking & basic cybersecurity**
+- **Docker & containerization**
+- **CI/CD basics**: GitHub Actions
+
+### 📐 Complementary Skills
+- **Mathematics & digital signal processing**
 - **BPMN** (Business Process Modeling Notation)
 
 ---
@@ -40,8 +41,8 @@ I design clean, modular, and production-ready software systems, with a strong fo
 
 ## 📫 Contact
 
-- GitHub: [framonmar7](https://github.com/framonmar7)
+- Website: [framonmar7.dev](https://framonmar7.dev)
 - Email: framonmar7@gmail.com
-- LinkedIn: [linkedin.com/in/framonmar7/](https://www.linkedin.com/in/framonmar7/)
+- LinkedIn: [linkedin.com/in/framonmar7](https://www.linkedin.com/in/framonmar7/)
 
 ---
